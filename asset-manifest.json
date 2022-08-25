@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Blog-Creater-App/static/css/main.823b5820.css",
+    "main.js": "/Blog-Creater-App/static/js/main.43ca7408.js",
+    "static/js/787.59ee247b.chunk.js": "/Blog-Creater-App/static/js/787.59ee247b.chunk.js",
+    "index.html": "/Blog-Creater-App/index.html",
+    "main.823b5820.css.map": "/Blog-Creater-App/static/css/main.823b5820.css.map",
+    "main.43ca7408.js.map": "/Blog-Creater-App/static/js/main.43ca7408.js.map",
+    "787.59ee247b.chunk.js.map": "/Blog-Creater-App/static/js/787.59ee247b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.823b5820.css",
+    "static/js/main.43ca7408.js"
+  ]
+}
